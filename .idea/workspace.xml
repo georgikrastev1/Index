@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ecbfae7-00fa-4428-8d95-afc37cde77c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="32506df1-8214-4df4-a197-7a36b64686c3" />
+  <component name="ProjectId" id="1hNesLlAFdYdd4tmkSKtH98Q36W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Index_light\templates" />
+      <recent name="C:\Users\user\PycharmProjects\Index_light" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Index_light" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Index_light" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Index_light.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ecbfae7-00fa-4428-8d95-afc37cde77c3" name="Default Changelist" comment="" />
+      <created>1599856182347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599856182347</updated>
+      <workItem from="1599856239942" duration="3910000" />
+      <workItem from="1599927812756" duration="1166000" />
+      <workItem from="1600003450840" duration="657000" />
+      <workItem from="1600014180266" duration="4284000" />
+      <workItem from="1600119435792" duration="497000" />
+      <workItem from="1600179511344" duration="631000" />
+      <workItem from="1600505646317" duration="646000" />
+      <workItem from="1600551627439" duration="7392000" />
+      <workItem from="1600560880795" duration="279000" />
+      <workItem from="1600561181529" duration="2909000" />
+      <workItem from="1600600272403" duration="1967000" />
+      <workItem from="1600602552794" duration="459000" />
+      <workItem from="1600603028104" duration="1662000" />
+      <workItem from="1600605139784" duration="206000" />
+      <workItem from="1600615933153" duration="2169000" />
+      <workItem from="1600717499077" duration="5377000" />
+      <workItem from="1600782592830" duration="4964000" />
+      <workItem from="1600885178454" duration="13599000" />
+      <workItem from="1601277896405" duration="95000" />
+      <workItem from="1601315170682" duration="978000" />
+      <workItem from="1601377066317" duration="148000" />
+      <workItem from="1601723092171" duration="744000" />
+      <workItem from="1601725073256" duration="810000" />
+      <workItem from="1602188124208" duration="5556000" />
+      <workItem from="1602237062565" duration="771000" />
+      <workItem from="1602269851163" duration="14298000" />
+      <workItem from="1602611377299" duration="13777000" />
+      <workItem from="1602703225266" duration="6384000" />
+      <workItem from="1603199680876" duration="875000" />
+      <workItem from="1603320466788" duration="1479000" />
+      <workItem from="1603351092126" duration="612000" />
+      <workItem from="1603358618260" duration="617000" />
+      <workItem from="1603374970584" duration="625000" />
+      <workItem from="1603396645475" duration="388000" />
+      <workItem from="1603397954326" duration="623000" />
+      <workItem from="1609060811086" duration="21781000" />
+      <workItem from="1609319306542" duration="14790000" />
+      <workItem from="1609966890009" duration="4597000" />
+      <workItem from="1609973826537" duration="612000" />
+      <workItem from="1610049434912" duration="5226000" />
+      <workItem from="1610095291769" duration="4712000" />
+      <workItem from="1611085036306" duration="5821000" />
+      <workItem from="1611139024751" duration="611000" />
+      <workItem from="1611398282811" duration="2296000" />
+      <workItem from="1616363378285" duration="899000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1609969658370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609969658370" />
+    <state width="1710" height="271" key="GridCell.Tab.0.bottom" timestamp="1611433332935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1723" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609069079790" />
+    <state width="1710" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611433332935" />
+    <state width="1710" height="271" key="GridCell.Tab.0.center" timestamp="1611433332935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1723" height="271" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609069079790" />
+    <state width="1710" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611433332935" />
+    <state width="1710" height="271" key="GridCell.Tab.0.left" timestamp="1611433332935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1723" height="271" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609069079790" />
+    <state width="1710" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611433332934" />
+    <state width="1710" height="271" key="GridCell.Tab.0.right" timestamp="1611433332935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1723" height="271" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609069079790" />
+    <state width="1710" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611433332935" />
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1616363378941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616363378941" />
+  </component>
+</project>
